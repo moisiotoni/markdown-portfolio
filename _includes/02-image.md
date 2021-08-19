@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image] (https://github.com/moisiotoni/markdown-portfolio/issues/4#issue-974335882)
